@@ -1,0 +1,57 @@
+h3{
+    color: aqua;
+}
+#heading1{
+    color: rgba(0, 255, 255, 0.267);
+}
+#heading2{
+    color: blue;
+}
+#heading3{
+    color: brown;
+}
+#heading4{
+    color: chartreuse;
+}
+#heading5{
+    color: indigo;
+}
+.pgraph{
+    border: 2px solid black;
+    background-color: blue;
+    padding: 30px;
+    margin: 30px;
+}
+
+.headp1{
+    border: 2px solid black;
+    background-color: blue;
+    padding: 30px;
+    margin: 30px;
+}
+.headp2{
+    border: 2px solid red;
+    background-color: red;
+    padding: 30px;
+    margin: 30px;
+}
+.headp3{
+    border: 2px solid green;
+    background-color: green;
+    padding: 30px;
+    margin: 30px;
+}
+
+    .headp4{
+        border: 2px solid yellow;
+        background-color: yellow;
+        padding: 30px;
+        margin: 30px;
+    }
+    .headp5{
+        border: 2px solid violet;
+        background-color: violet;
+        padding: 30px;
+        margin: 30px;
+    }
+
